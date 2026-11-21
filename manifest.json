@@ -1,0 +1,25 @@
+{
+  "name": "Para Rafaela 💙💛 | Nosso Mundo Ideal",
+  "short_name": "Rafa & JV",
+  "description": "Nosso cantinho especial feito com amor por João Vitor para Rafaela Dutra Lopes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040711",
+  "theme_color": "#040711",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
